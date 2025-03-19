@@ -186,4 +186,4 @@
 
 ## 📧 Contact
 - Author: Nitin Yadav
-- Email: ny172418@gmail.com
+- Email: forwork.nitinyadav@gmail.com
